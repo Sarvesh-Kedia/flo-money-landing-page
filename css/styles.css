@@ -34,7 +34,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #42C2D1;
-  --bs-secondary: #054144;
+  --bs-secondary: #273B4A;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -161,7 +161,7 @@ body {
 
 
 .imp-button {
-  background-color: var(--bs-primary) !important;
+  background-color: var(--bs-secondary) !important;
 }
 
 #FAQ {
@@ -2292,8 +2292,8 @@ progress {
 
 .btn-dark {
   color: #fff;
-  background-color: #212529;
-  border-color: #212529;
+  background-color: var(--bs-secondary);
+  border-color: var(--bs-secondary);
 }
 .btn-dark:hover {
   color: #fff;
@@ -3511,7 +3511,7 @@ progress {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.55);
+  color: var(--bs-secondary);
   border-color: rgba(0, 0, 0, 0.1);
 }
 .navbar-light .navbar-toggler-icon {
@@ -6242,6 +6242,7 @@ progress {
 .rounded-pill {
   border-radius: 50rem !important;
 }
+
 
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
@@ -9620,13 +9621,13 @@ section {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: black;
+  background-color: white;
 
 }
 #mainNav .navbar-brand {
   /* font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
   font-family: var(--bs-body-font-family);
-  color: black;
+  color: var(--bs-secondary);
 
 }
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:active {
@@ -9637,20 +9638,23 @@ section {
 #mainNav .navbar-toggler {
   font-size: 0.875rem;
   padding: 0.75rem 1rem;
-  color: #212529;
-  color: white;
+  color: var(--bs-secondary);
   border-color: white;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #212529;
-  color: white;
+  color: var(--bs-secondary);
+  
 
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #6c757d;
+  color: var(--bs-primary);
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: var(--bs-primary);
+}
+
+button .nav-download-button {
+  background-color: var(--bs-secondary);
 }
 
 /*!
@@ -9910,7 +9914,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 #cta {
-  background-color: #f8f9fa;
+  background-color: #F8F9FA;
 }
 
 #cta-main {
@@ -9939,6 +9943,20 @@ footer a:hover, footer a:active, footer a:focus {
   outline-offset: -3px; */
   border: 6px solid var(--bs-primary);
   object-fit: cover;
+}
+
+#mockup-wrapper {
+
+
+  border-radius: 1000px;
+
+
+
+}
+#mockup-wrapper img {
+    -webkit-box-shadow: 4px 4px 16px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 4px 4px 16px 0px rgba(0,0,0,0.25);
+  box-shadow: 4px 4px 16px 0px rgba(0,0,0,0.25);
 }
 
 
