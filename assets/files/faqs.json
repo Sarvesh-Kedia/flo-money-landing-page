@@ -1,0 +1,147 @@
+[
+  {
+    "topic": "Poolpay",
+    "question": "What is PoolPay?",
+    "answer": "PoolPay is a group payments platform, wherein you pool money into a common digital wallet with your peers. The funds can be collectively used for all your group related payments. These payments can be made scanning merchants UPI QR Code."
+  },
+  {
+    "topic": "Poolpay",
+    "question": "Why PoolPay?",
+    "answer": "1. You only pay for your share\n2. Skip awkwardness around asking peers for your money\n3. Easy tracking of expenses"
+  },
+  {
+    "topic": "Poolpay",
+    "question": "What can I use PoolPay for?",
+    "answer": "You can use PoolPay to do a ton of useful things -\n1. Create an expense group with your friends which also doubles down as a shared wallet.\n2. Track, make and settle group related payments from your shared digital wallet.\n3. Track and make personal payments.\n4. Split one time bill payments using our QuickSplit feature. (Coming Soon) "
+  },
+  {
+    "topic": "Poolpay",
+    "question": "What makes PoolPay unique?",
+    "answer": "While other apps rely on manual entry of expenses and inefficient ways to settle payments, PoolPay allows you to reduce this work by giving you and your friends a shared digital wallet that can be used to make all payments that are common amongst the group members."
+  },
+  {
+    "topic": "Poolpay",
+    "question": "Is PoolPay free?",
+    "answer": "Yes! the service is completely free."
+  },
+  {
+    "topic": "Onboarding",
+    "question": "Where can I find the app?",
+    "answer": "PoolPay is available for download on iOS App Store and Google Play Store"
+  },
+  {
+    "topic": "Onboarding",
+    "question": "Why is registration important?",
+    "answer": "Registering on the app helps you and your friends identify each other and helps us keep your data secure.\nThe KYC process, as mandated by RBI, also helps avoid misappropriation of funds."
+  },
+  {
+    "topic": "Onboarding",
+    "question": "What does the registeration and KYC process look like?",
+    "answer": "We will ask you for your phone number and other basic details like name, gender and date of birth.\nWe will then require you to verify your PAN number so we can complete Minimum KYC for your account.\nYou can then proceed to use the PoolPay app. "
+  },
+  {
+    "topic": "Onboarding",
+    "question": "I am facing an issue while submitting my KYC",
+    "answer": "Please reach out to us at support@poolpay.in with more details."
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "How do I deposit money into a group wallet?",
+    "answer": "You can deposit money in a group wallet via your personal PoolPay wallet."
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "How do I load money into my personal wallet?",
+    "answer": "You can deposit money into your personal wallet via any UPI app of your choice"
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "Who has access to the group wallet funds?",
+    "answer": "All members of the group can make use of the funds available in the group wallet. Only add people to the group who are trustworthy and with whom you are comfortable sharing your money."
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "How do I make a payment via a group wallet?",
+    "answer": ""
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "Can I also record payments that were not made via the app?",
+    "answer": "Yes you can! You can manually add details of payments via other means. You can even choose the payment split for the group members involved and add additonal details that will make settling the payments easier."
+  },
+  {
+    "topic": "Group Wallet",
+    "question": "I made a group payment but i would like to change the individual split of the members. How can i do that?",
+    "answer": "1. Find the transaction bubble in the group chat section.\n2. Click on it to view all the details of that group payment. \n3. In that screen, you will find an edit button on the top right corner. click on it.\n4. You will now be able to change the list of members involved, their individual share for the payment, payment category etc."
+  },
+  {
+    "topic": "User Account",
+    "question": "Someone is abusing/harassing me on the group chat or is indulging in hate speech.",
+    "answer": "Safety is our top priority. Please write to support@poolpay.in with screenshots and details. We will be quick to initiate the necessary actions. "
+  },
+  {
+    "topic": "User Account",
+    "question": "I would like to update my phone number/ email id.",
+    "answer": "Please reach out to us at support@poolpay.in and we will assist you with the same."
+  },
+  {
+    "topic": "User Account",
+    "question": "I would like to delete my account.",
+    "answer": "We are sorry to see you go! Please reach out to us at support@poolpay.in and we will assist you with the same. Please not that before we can proceed with account deletion, you must clear all pending payments in each group you are a part of. We may retain some user information as per guidelines set by RBI."
+  },
+  {
+    "topic": "User Account",
+    "question": "I would like to report a bug.",
+    "answer": "Please reach out to us at support@poolpay.in with relevant screenshots and details and we will fix it up asap!"
+  },
+  {
+    "topic": "User Account",
+    "question": "How do I reset my password?",
+    "answer": "There is no password reset option as we only provide an OTP login. If you feel that your account has been compromised, write to us at support@poolpay.in and we can temporarily block payments from your account. We can also assist you with changing the phone number associated with your account."
+  },
+  {
+    "topic": "User Account",
+    "question": "Help, I can't log in to my account!",
+    "answer": "Please check if you are entering the correct phone number. In case you are still not able to log in, contact support@poolpay.in with all details and necessary screenshots and we will look into it."
+  },
+  {
+    "topic": "User Account",
+    "question": "Help, my balances are wrong!",
+    "answer": "Please restart the app or check again after some time. Any recent transactions may take time to update on the app incase you are on a slow network.\nIf you are still having any issues, please write to support@poolpay.in and we will look into the issue. "
+  },
+  {
+    "topic": "User Account",
+    "question": "Who can see my expenses and balances? How do I keep certain expenses and balances private?",
+    "answer": "Everyone who is a part of the group can see the group expenses and balances. However, in your personal wallet, the balances and expenses will be private."
+  },
+  {
+    "topic": "User Account",
+    "question": "Are there any kind of limits on payments made via the app?",
+    "answer": "The following limits apply currently -\n\nAccount Balance                Rs. 2,00,000\nDaily Spend                Rs. 1,00,000\nMonthly Spend                No Limit\nAnnual Spend                No Limit\nPer Transaction                Rs. 50,000\n\nApart from the above mentioned limits, we have also set a Rs. 3,00,000 daily spend limit.\nWe also provide you with the option to change the per transaction limit to an amount that you are more comfortable with.\n\nPlease note that these limits are applicable on your overall deposits and payments across your PoolPay account and not just on your personal wallet. "
+  },
+  {
+    "topic": "Referrals",
+    "question": "What can I do with my Poolcoins?",
+    "answer": "In future updates, you will have the option to convert your Poolcoins to Indian Rupee! 250 Poolcoins = 1 INR. This money will be deposited into your personal wallet.\nPlease note that you need to have atleast 30,000 Poolcoins before you can convert them and these Poolcoins should have been earned atleast 10 days prior to the time of conversion."
+  },
+  {
+    "topic": "Referrals",
+    "question": "What is PoolPay's Referral Program?",
+    "answer": "Existing PoolPay users can earn rewards when new users join the PoolPay app using their referral code. The new users earn a reward as well! If you are a college student or an influencer, you can also sign up for our campus rep/ influencer program and get unlimited referals and higher rewards per referal."
+  },
+  {
+    "topic": "Referrals",
+    "question": "What are the rewards on each referral?",
+    "answer": "Details for the rewards can be found on the referral page of the app."
+  },
+  {
+    "topic": "Referrals",
+    "question": "How many people can I refer?",
+    "answer": "User's will get rewards for upto 10 referrals. There is no limit to the referrals if you are a part of the influencer/ campus rep program."
+  },
+  {
+    "topic": "Onboarding",
+    "question": "How do I join the Influencer Program?",
+    "answer": "Fill up the form give in the referrals page and we will onboard you if you meet all our criteria."
+  }
+]

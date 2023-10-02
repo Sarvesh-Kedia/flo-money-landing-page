@@ -1,7 +1,5 @@
 const cardElement = document.querySelector('#card');
 
-
-
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     // true for mobile device
     addEventListener("touchmove", (e) => {
